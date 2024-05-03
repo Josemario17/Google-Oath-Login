@@ -1,0 +1,10 @@
+
+
+@font-face {
+    font-family: font1;
+    src: url('../src/fonts/static/Montserrat-Medium.ttf');
+}
+
+*{
+    font-family: sans-serif;
+}
